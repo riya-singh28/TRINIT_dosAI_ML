@@ -1,0 +1,620 @@
+,state,label,modal_price
+,,,mean
+0,andaman and nicobar,amaranthus,7000.0
+1,andaman and nicobar,banana - green,5000.0
+2,andaman and nicobar,bhindi(ladies finger),7000.0
+3,andaman and nicobar,bitter gourd,7000.0
+4,andaman and nicobar,black pepper,120000.0
+5,andaman and nicobar,bottle gourd,3500.0
+6,andaman and nicobar,brinjal,7500.0
+7,andaman and nicobar,cabbage,6500.0
+8,andaman and nicobar,carrot,10000.0
+9,andaman and nicobar,cauliflower,11000.0
+10,andaman and nicobar,cluster beans,9000.0
+11,andaman and nicobar,coconut,5600.0
+12,andaman and nicobar,colacasia,6000.0
+13,andaman and nicobar,onion,3000.0
+14,andaman and nicobar,potato,3000.0
+15,andhra pradesh,bengal gram(gram)(whole),4600.0
+16,andhra pradesh,jowar(sorghum),1900.0
+17,andhra pradesh,paddy(dhan)(common),1855.0
+18,andhra pradesh,tomato,560.0
+19,assam,arecanut(betelnut/supari),2200.0
+20,assam,arhar (tur/red gram)(whole),5850.0
+21,assam,bitter gourd,5950.0
+22,assam,black gram (urd beans)(whole),4400.0
+23,assam,bottle gourd,850.0
+24,assam,brinjal,966.6666666666666
+25,assam,cabbage,516.6666666666666
+26,assam,carrot,1025.0
+27,assam,cauliflower,1675.0
+28,assam,cluster beans,4100.0
+29,assam,cucumbar(kheera),1775.0
+30,assam,field pea,2900.0
+31,assam,french beans (frasbean),2250.0
+32,assam,garlic,4750.0
+33,assam,green chilli,2400.0
+34,assam,green gram (moong)(whole),6500.0
+35,assam,jute,3350.0
+36,assam,knool khol,950.0
+37,assam,lentil (masur)(whole),7000.0
+38,assam,maida atta,2370.0
+39,assam,maize,1800.0
+40,assam,masur dal,6200.0
+41,assam,mustard,3250.0
+42,assam,onion,1150.0
+43,assam,potato,633.3333333333334
+44,assam,pumpkin,775.0
+45,assam,raddish,975.0
+46,assam,rice,2942.8571428571427
+47,assam,ridgeguard(tori),4100.0
+48,assam,tomato,1300.0
+49,assam,wheat atta,2550.0
+50,chattisgarh,dry chillies,4200.0
+51,chattisgarh,groundnut,4900.0
+52,chattisgarh,paddy(dhan)(common),1500.0
+53,goa,arecanut(betelnut/supari),20750.0
+54,gujarat,arhar (tur/red gram)(whole),4850.0
+55,gujarat,bajra(pearl millet/cumbu),1965.0
+56,gujarat,bhindi(ladies finger),3257.0
+57,gujarat,bitter gourd,4900.0
+58,gujarat,bottle gourd,1506.25
+59,gujarat,brinjal,952.0
+60,gujarat,cabbage,991.6666666666666
+61,gujarat,capsicum,1950.0
+62,gujarat,carrot,837.5
+63,gujarat,castor seed,4870.0
+64,gujarat,cauliflower,1533.3333333333333
+65,gujarat,coriander(leaves),1912.5
+66,gujarat,cotton,5230.0
+67,gujarat,cowpea(veg),3144.75
+68,gujarat,cucumbar(kheera),2141.6666666666665
+69,gujarat,drumstick,2437.5
+70,gujarat,elephant yam (suran),2237.5
+71,gujarat,ginger(green),6200.0
+72,gujarat,gram raw(chholia),2000.0
+73,gujarat,green chilli,3000.0
+74,gujarat,guar,3400.0
+75,gujarat,guar seed(cluster beans seed),4010.0
+76,gujarat,indian beans (seam),1775.0
+77,gujarat,leafy vegetable,750.0
+78,gujarat,lemon,3050.0
+79,gujarat,little gourd (kundru),3350.0
+80,gujarat,maize,1875.0
+81,gujarat,methi(leaves),837.5
+82,gujarat,mint(pudina),1300.0
+83,gujarat,onion,600.0
+84,gujarat,onion green,1225.0
+85,gujarat,paddy(dhan)(common),1519.4
+86,gujarat,papaya (raw),850.0
+87,gujarat,peas cod,1462.5
+88,gujarat,pegeon pea (arhar fali),3067.0
+89,gujarat,pointed gourd (parval),5250.0
+90,gujarat,potato,700.0
+91,gujarat,pumpkin,950.0
+92,gujarat,raddish,850.0
+93,gujarat,ridgeguard(tori),2750.0
+94,gujarat,round gourd,1400.0
+95,gujarat,spinach,475.0
+96,gujarat,sponge gourd,1725.0
+97,gujarat,surat beans (papadi),2811.0
+98,gujarat,sweet potato,2016.6666666666667
+99,gujarat,tinda,3012.5
+100,gujarat,tomato,1358.1666666666667
+101,gujarat,wheat,1900.0
+102,haryana,apple,6500.0
+103,haryana,banana,2666.6666666666665
+104,haryana,ber(zizyphus/borehannu),2150.0
+105,haryana,bhindi(ladies finger),6000.0
+106,haryana,bottle gourd,2700.0
+107,haryana,cabbage,500.0
+108,haryana,carrot,562.5
+109,haryana,cauliflower,1416.6666666666667
+110,haryana,chikoos(sapota),3500.0
+111,haryana,coriander(leaves),1805.0
+112,haryana,cucumbar(kheera),2200.0
+113,haryana,garlic,3000.0
+114,haryana,ginger(green),8500.0
+115,haryana,grapes,3625.0
+116,haryana,green chilli,3950.0
+117,haryana,kinnow,1416.6666666666667
+118,haryana,leafy vegetable,1000.0
+119,haryana,methi(leaves),1410.0
+120,haryana,onion,1250.0
+121,haryana,orange,2400.0
+122,haryana,papaya,1650.0
+123,haryana,peas wet,1200.0
+124,haryana,pomegranate,4583.333333333333
+125,haryana,potato,586.8333333333334
+126,haryana,raddish,762.5
+127,haryana,spinach,732.5
+128,haryana,tinda,1550.0
+129,haryana,tomato,1562.5
+130,himachal pradesh,apple,6833.333333333333
+131,himachal pradesh,banana,2385.0
+132,himachal pradesh,ber(zizyphus/borehannu),2500.0
+133,himachal pradesh,bhindi(ladies finger),5466.666666666667
+134,himachal pradesh,bottle gourd,2662.5
+135,himachal pradesh,brinjal,2212.5
+136,himachal pradesh,cabbage,762.5
+137,himachal pradesh,capsicum,4800.0
+138,himachal pradesh,carrot,925.0
+139,himachal pradesh,cauliflower,1275.0
+140,himachal pradesh,coriander(leaves),1716.6666666666667
+141,himachal pradesh,cucumbar(kheera),5150.0
+142,himachal pradesh,french beans (frasbean),4883.333333333333
+143,himachal pradesh,garlic,5300.0
+144,himachal pradesh,ginger(dry),9800.0
+145,himachal pradesh,ginger(green),8875.0
+146,himachal pradesh,grapes,6250.0
+147,himachal pradesh,green chilli,5850.0
+148,himachal pradesh,guava,5325.0
+149,himachal pradesh,kinnow,2162.5
+150,himachal pradesh,lemon,5300.0
+151,himachal pradesh,mashrooms,14750.0
+152,himachal pradesh,methi(leaves),950.0
+153,himachal pradesh,mousambi(sweet lime),4625.0
+154,himachal pradesh,onion,1033.3333333333333
+155,himachal pradesh,orange,3875.0
+156,himachal pradesh,papaya,2550.0
+157,himachal pradesh,peas cod,1650.0
+158,himachal pradesh,peas wet,2083.3333333333335
+159,himachal pradesh,pineapple,3125.0
+160,himachal pradesh,pomegranate,6416.666666666667
+161,himachal pradesh,potato,937.5
+162,himachal pradesh,pumpkin,1725.0
+163,himachal pradesh,raddish,662.5
+164,himachal pradesh,spinach,1262.5
+165,himachal pradesh,squash(chappal kadoo),1900.0
+166,himachal pradesh,tomato,2275.0
+167,himachal pradesh,turnip,1200.0
+168,jammu and kashmir,cauliflower,800.0
+169,jammu and kashmir,cucumbar(kheera),1600.0
+170,jammu and kashmir,knool khol,1250.0
+171,karnataka,beans,3350.0
+172,karnataka,beetroot,1500.0
+173,karnataka,bhindi(ladies finger),3400.0
+174,karnataka,bitter gourd,3800.0
+175,karnataka,brinjal,1300.0
+176,karnataka,cabbage,1250.0
+177,karnataka,capsicum,3800.0
+178,karnataka,carrot,1400.0
+179,karnataka,cauliflower,1200.0
+180,karnataka,chilly capsicum,4250.0
+181,karnataka,copra,9000.0
+182,karnataka,cucumbar(kheera),1750.0
+183,karnataka,drumstick,2900.0
+184,karnataka,ginger(green),5500.0
+185,karnataka,green avare (w),2900.0
+186,karnataka,green chilli,3800.0
+187,karnataka,knool khol,1400.0
+188,karnataka,papaya,1300.0
+189,karnataka,peas wet,3000.0
+190,karnataka,raddish,1100.0
+191,karnataka,ridgeguard(tori),3700.0
+192,karnataka,seemebadnekai,1500.0
+193,karnataka,snakeguard,1400.0
+194,karnataka,suvarna gadde,2500.0
+195,karnataka,tomato,855.6666666666666
+196,karnataka,water melon,1400.0
+197,kerala,amaranthus,2406.25
+198,kerala,amla(nelli kai),3800.0
+199,kerala,amphophalus,2540.0
+200,kerala,apple,11000.0
+201,kerala,arecanut(betelnut/supari),21000.0
+202,kerala,ashgourd,1931.8181818181818
+203,kerala,banana,3194.4444444444443
+204,kerala,banana - green,4210.0
+205,kerala,beetroot,2366.6666666666665
+206,kerala,bhindi(ladies finger),3820.8333333333335
+207,kerala,bitter gourd,4712.5
+208,kerala,black pepper,29250.0
+209,kerala,bottle gourd,1660.0
+210,kerala,brinjal,2881.818181818182
+211,kerala,cabbage,2250.0
+212,kerala,capsicum,7100.0
+213,kerala,carrot,3333.3333333333335
+214,kerala,cashewnuts,10100.0
+215,kerala,cauliflower,3000.0
+216,kerala,cluster beans,3400.0
+217,kerala,coconut,3633.3333333333335
+218,kerala,coconut oil,18150.0
+219,kerala,coconut seed,3475.0
+220,kerala,colacasia,4600.0
+221,kerala,copra,10216.666666666666
+222,kerala,cowpea(veg),3500.0
+223,kerala,cucumbar(kheera),2150.0
+224,kerala,drumstick,4200.0
+225,kerala,duster beans,3600.0
+226,kerala,elephant yam (suran),2380.0
+227,kerala,french beans (frasbean),3050.0
+228,kerala,garlic,7100.0
+229,kerala,ginger(green),7666.666666666667
+230,kerala,green chilli,3550.0
+231,kerala,indian beans (seam),4300.0
+232,kerala,lemon,3050.0
+233,kerala,little gourd (kundru),4000.0
+234,kerala,long melon(kakri),2700.0
+235,kerala,mango,3500.0
+236,kerala,mango (raw-ripe),2833.3333333333335
+237,kerala,onion,1941.6666666666667
+238,kerala,orange,5900.0
+239,kerala,paddy(dhan)(common),1850.0
+240,kerala,pepper garbled,30125.0
+241,kerala,potato,2262.5
+242,kerala,pumpkin,1616.6666666666667
+243,kerala,ridgeguard(tori),5000.0
+244,kerala,rubber,12350.0
+245,kerala,snakeguard,2257.1428571428573
+246,kerala,sweet potato,2600.0
+247,kerala,tapioca,2725.0
+248,kerala,tomato,2012.5
+249,kerala,turmeric (raw),2100.0
+250,madhya pradesh,apple,2100.0
+251,madhya pradesh,banana,1000.0
+252,madhya pradesh,bhindi(ladies finger),1375.0
+253,madhya pradesh,bitter gourd,1450.0
+254,madhya pradesh,bottle gourd,1200.0
+255,madhya pradesh,brinjal,1150.0
+256,madhya pradesh,cabbage,1075.0
+257,madhya pradesh,carrot,450.0
+258,madhya pradesh,cauliflower,1100.0
+259,madhya pradesh,coriander(leaves),975.0
+260,madhya pradesh,cotton,5400.0
+261,madhya pradesh,green chilli,1750.0
+262,madhya pradesh,green gram dal (moong dal),3650.0
+263,madhya pradesh,linseed,3475.0
+264,madhya pradesh,methi(leaves),1300.0
+265,madhya pradesh,mustard,3250.0
+266,madhya pradesh,niger seed (ramtil),4150.0
+267,madhya pradesh,onion,650.0
+268,madhya pradesh,orange,1000.0
+269,madhya pradesh,paddy(dhan)(common),1458.3333333333333
+270,madhya pradesh,potato,750.0
+271,madhya pradesh,soyabean,3275.0
+272,madhya pradesh,spinach,1000.0
+273,madhya pradesh,tomato,1050.0
+274,madhya pradesh,wheat,1957.5
+275,maharashtra,apple,8600.0
+276,maharashtra,arhar (tur/red gram)(whole),4430.0
+277,maharashtra,banana,795.0
+278,maharashtra,beans,3200.0
+279,maharashtra,beetroot,1200.0
+280,maharashtra,bengal gram(gram)(whole),3872.0
+281,maharashtra,bhindi(ladies finger),3575.0
+282,maharashtra,bitter gourd,3950.0
+283,maharashtra,bottle gourd,1500.0
+284,maharashtra,brinjal,1506.25
+285,maharashtra,cabbage,908.3333333333334
+286,maharashtra,carrot,966.6666666666666
+287,maharashtra,cauliflower,878.5714285714286
+288,maharashtra,chikoos(sapota),2000.0
+289,maharashtra,chilly capsicum,3000.0
+290,maharashtra,coriander(leaves),352.7142857142857
+291,maharashtra,cotton,5275.0
+292,maharashtra,cucumbar(kheera),2250.0
+293,maharashtra,drumstick,3333.3333333333335
+294,maharashtra,elephant yam (suran),1300.0
+295,maharashtra,garlic,2700.0
+296,maharashtra,ginger(dry),5500.0
+297,maharashtra,grapes,2750.0
+298,maharashtra,green chilli,4000.0
+299,maharashtra,guar,4800.0
+300,maharashtra,guava,4000.0
+301,maharashtra,karbuja(musk melon),1700.0
+302,maharashtra,leafy vegetable,1800.0
+303,maharashtra,lime,2312.5
+304,maharashtra,little gourd (kundru),2000.0
+305,maharashtra,maize,1350.0
+306,maharashtra,mango,4500.0
+307,maharashtra,methi(leaves),6.0
+308,maharashtra,mint(pudina),4.0
+309,maharashtra,onion,456.1
+310,maharashtra,onion green,4.5
+311,maharashtra,orange,2900.0
+312,maharashtra,pear(marasebu),8000.0
+313,maharashtra,peas wet,2800.0
+314,maharashtra,pineapple,1400.0
+315,maharashtra,pomegranate,3250.0
+316,maharashtra,potato,1170.0
+317,maharashtra,pumpkin,1500.0
+318,maharashtra,raddish,9.5
+319,maharashtra,rajgir,3.5
+320,maharashtra,ridgeguard(tori),3925.0
+321,maharashtra,snakeguard,1700.0
+322,maharashtra,spinach,4.4
+323,maharashtra,sweet potato,1650.0
+324,maharashtra,sweet pumpkin,1000.0
+325,maharashtra,tender coconut,400.0
+326,maharashtra,tomato,1018.75
+327,maharashtra,turmeric,5200.0
+328,maharashtra,water melon,633.3333333333334
+329,maharashtra,wheat,1950.0
+330,manipur,banana,3400.0
+331,manipur,bengal gram dal (chana dal),9533.333333333334
+332,manipur,cabbage,1260.0
+333,manipur,cauliflower,2200.0
+334,manipur,dry chillies,14325.0
+335,manipur,ginger(green),4400.0
+336,manipur,masur dal,7480.0
+337,manipur,onion,2400.0
+338,manipur,paddy(dhan)(common),2343.75
+339,manipur,potato,1180.0
+340,manipur,rice,3800.0
+341,manipur,turmeric (raw),2500.0
+342,meghalaya,arecanut(betelnut/supari),13500.0
+343,meghalaya,banana,4000.0
+344,meghalaya,betal leaves,26500.0
+345,meghalaya,ginger(dry),6500.0
+346,meghalaya,orange,4000.0
+347,meghalaya,pumpkin,1850.0
+348,nagaland,arecanut(betelnut/supari),1500.0
+349,nagaland,banana - green,4200.0
+350,nagaland,cabbage,2300.0
+351,nagaland,ginger(green),1700.0
+352,nagaland,leafy vegetable,1700.0
+353,nagaland,turmeric (raw),1700.0
+354,odisha,banana,3000.0
+355,odisha,banana - green,3400.0
+356,odisha,beans,2650.0
+357,odisha,bhindi(ladies finger),4325.0
+358,odisha,bitter gourd,4833.333333333333
+359,odisha,black gram (urd beans)(whole),9000.0
+360,odisha,brinjal,1236.3636363636363
+361,odisha,broken rice,1200.0
+362,odisha,cabbage,725.0
+363,odisha,capsicum,4000.0
+364,odisha,carrot,1225.0
+365,odisha,cauliflower,1050.0
+366,odisha,coconut,1500.0
+367,odisha,cucumbar(kheera),3300.0
+368,odisha,french beans (frasbean),4000.0
+369,odisha,garlic,4000.0
+370,odisha,ginger(dry),7500.0
+371,odisha,gur(jaggery),2000.0
+372,odisha,leafy vegetable,1500.0
+373,odisha,maize,1375.0
+374,odisha,onion,1357.142857142857
+375,odisha,orange,8000.0
+376,odisha,paddy(dhan)(common),1763.3333333333333
+377,odisha,potato,840.0
+378,odisha,pumpkin,1200.0
+379,odisha,rice,2600.0
+380,odisha,sugar,4000.0
+381,odisha,tomato,850.0
+382,odisha,water melon,3000.0
+383,odisha,wheat,3000.0
+384,odisha,wheat atta,3500.0
+385,pondicherry,copra,9000.0
+386,pondicherry,paddy(dhan)(common),1699.8
+387,pondicherry,"sesamum(sesame,gingelly,til)",10000.0
+388,punjab,amphophalus,2000.0
+389,punjab,apple,5500.0
+390,punjab,banana,1400.0
+391,punjab,bhindi(ladies finger),4250.0
+392,punjab,brinjal,1368.75
+393,punjab,cabbage,420.0
+394,punjab,capsicum,2790.0
+395,punjab,carrot,631.875
+396,punjab,cauliflower,610.0
+397,punjab,chikoos(sapota),3000.0
+398,punjab,coriander(leaves),755.0
+399,punjab,cotton,5445.0
+400,punjab,cucumbar(kheera),2250.0
+401,punjab,field pea,1500.0
+402,punjab,garlic,3100.0
+403,punjab,ginger(dry),6500.0
+404,punjab,ginger(green),7046.0
+405,punjab,gram raw(chholia),1000.0
+406,punjab,grapes,5416.666666666667
+407,punjab,green chilli,3104.0
+408,punjab,guava,2100.0
+409,punjab,kinnow,1214.2857142857142
+410,punjab,leafy vegetable,320.0
+411,punjab,methi(leaves),800.0
+412,punjab,onion,965.4545454545455
+413,punjab,onion green,1200.0
+414,punjab,papaya,1350.0
+415,punjab,peas cod,1050.0
+416,punjab,peas wet,1133.0
+417,punjab,pineapple,4000.0
+418,punjab,pomegranate,6500.0
+419,punjab,potato,453.6363636363636
+420,punjab,raddish,415.45454545454544
+421,punjab,spinach,614.2857142857143
+422,punjab,squash(chappal kadoo),1400.0
+423,punjab,tomato,1780.0
+424,punjab,turnip,550.0
+425,rajasthan,bajra(pearl millet/cumbu),1776.0
+426,rajasthan,banana,1900.0
+427,rajasthan,bengal gram(gram)(whole),3475.0
+428,rajasthan,bhindi(ladies finger),3900.0
+429,rajasthan,black gram (urd beans)(whole),2700.0
+430,rajasthan,bottle gourd,1100.0
+431,rajasthan,cabbage,900.0
+432,rajasthan,capsicum,2400.0
+433,rajasthan,carrot,900.0
+434,rajasthan,cauliflower,1100.0
+435,rajasthan,corriander seed,4152.0
+436,rajasthan,cucumbar(kheera),2400.0
+437,rajasthan,ginger(green),5900.0
+438,rajasthan,grapes,3400.0
+439,rajasthan,green chilli,4400.0
+440,rajasthan,ground nut seed,3500.0
+441,rajasthan,guar,4035.0
+442,rajasthan,guar seed(cluster beans seed),3987.5
+443,rajasthan,lemon,2400.0
+444,rajasthan,maize,1875.0
+445,rajasthan,moath dal,4317.5
+446,rajasthan,mustard,3383.5
+447,rajasthan,onion,700.0
+448,rajasthan,papaya,1400.0
+449,rajasthan,pomegranate,1500.0
+450,rajasthan,soyabean,3570.0
+451,rajasthan,taramira,3256.0
+452,rajasthan,tomato,1500.0
+453,rajasthan,wheat,1879.5
+454,tamil nadu,black gram (urd beans)(whole),4597.545454545455
+455,tamil nadu,cashewnuts,10500.0
+456,tamil nadu,coconut,2424.5833333333335
+457,tamil nadu,coconut seed,1620.0
+458,tamil nadu,copra,9446.111111111111
+459,tamil nadu,cotton,5031.6
+460,tamil nadu,cowpea (lobia/karamani),4550.0
+461,tamil nadu,gingelly oil,10649.0
+462,tamil nadu,green gram (moong)(whole),4726.833333333333
+463,tamil nadu,groundnut,6266.538461538462
+464,tamil nadu,hybrid cumbu,1998.3333333333333
+465,tamil nadu,jowar(sorghum),2150.0
+466,tamil nadu,karamani,6263.0
+467,tamil nadu,kodo millet(varagu),1989.0
+468,tamil nadu,kulthi(horse gram),2755.5
+469,tamil nadu,maize,1894.7777777777778
+470,tamil nadu,paddy(dhan)(common),1631.0754716981132
+471,tamil nadu,ragi (finger millet),2304.285714285714
+472,tamil nadu,"sesamum(sesame,gingelly,til)",10569.5
+473,tamil nadu,t.v. cumbu,1949.6666666666667
+474,tamil nadu,tamarind fruit,7333.333333333333
+475,tamil nadu,tapioca,220.0
+476,tamil nadu,thinai (italian millet),1205.0
+477,tamil nadu,tobacco,3100.0
+478,tamil nadu,turmeric,6818.333333333333
+479,telangana,brinjal,300.0
+480,telangana,cabbage,500.0
+481,telangana,cauliflower,650.0
+482,telangana,cotton,5600.0
+483,telangana,dry chillies,5500.0
+484,telangana,green chilli,1200.0
+485,telangana,mustard,4255.0
+486,telangana,paddy(dhan)(common),1760.0
+487,telangana,tomato,300.0
+488,telangana,wood,440.0
+489,tripura,bitter gourd,7000.0
+490,tripura,brinjal,1750.0
+491,tripura,cabbage,800.0
+492,tripura,cauliflower,3000.0
+493,tripura,cucumbar(kheera),3750.0
+494,tripura,ginger(green),6500.0
+495,tripura,green chilli,6500.0
+496,tripura,masur dal,8500.0
+497,tripura,onion,1850.0
+498,tripura,papaya (raw),1500.0
+499,tripura,potato,750.0
+500,tripura,rice,2600.0
+501,uttar pradesh,apple,5254.722222222223
+502,uttar pradesh,arhar (tur/red gram)(whole),4475.0
+503,uttar pradesh,arhar dal(tur dal),6508.333333333333
+504,uttar pradesh,bajra(pearl millet/cumbu),1717.2727272727273
+505,uttar pradesh,banana,1481.3333333333333
+506,uttar pradesh,banana - green,883.75
+507,uttar pradesh,barley (jau),1757.5
+508,uttar pradesh,bengal gram dal (chana dal),5430.0
+509,uttar pradesh,bengal gram(gram)(whole),4720.0
+510,uttar pradesh,ber(zizyphus/borehannu),1150.0
+511,uttar pradesh,bhindi(ladies finger),1910.0
+512,uttar pradesh,black gram (urd beans)(whole),3675.0
+513,uttar pradesh,black gram dal (urd dal),6143.333333333333
+514,uttar pradesh,bottle gourd,987.8125
+515,uttar pradesh,brinjal,738.2758620689655
+516,uttar pradesh,cabbage,534.0
+517,uttar pradesh,capsicum,1720.0
+518,uttar pradesh,carrot,508.8095238095238
+519,uttar pradesh,cauliflower,577.6
+520,uttar pradesh,chikoos(sapota),2300.0
+521,uttar pradesh,colacasia,1748.75
+522,uttar pradesh,cucumbar(kheera),1000.0
+523,uttar pradesh,field pea,906.6666666666666
+524,uttar pradesh,fish,4300.0
+525,uttar pradesh,garlic,1855.0
+526,uttar pradesh,ghee,29000.0
+527,uttar pradesh,ginger(green),3419.090909090909
+528,uttar pradesh,grapes,4370.0
+529,uttar pradesh,green chilli,1549.3103448275863
+530,uttar pradesh,green gram (moong)(whole),5800.0
+531,uttar pradesh,green peas,925.0
+532,uttar pradesh,groundnut,4350.0
+533,uttar pradesh,guava,1289.2857142857142
+534,uttar pradesh,gur(jaggery),2624.1666666666665
+535,uttar pradesh,jowar(sorghum),1400.0
+536,uttar pradesh,kinnow,900.0
+537,uttar pradesh,lemon,2717.777777777778
+538,uttar pradesh,lentil (masur)(whole),4330.0
+539,uttar pradesh,maize,1718.3333333333333
+540,uttar pradesh,mousambi(sweet lime),2547.5
+541,uttar pradesh,mustard,3590.277777777778
+542,uttar pradesh,mustard oil,9329.0
+543,uttar pradesh,onion,871.0294117647059
+544,uttar pradesh,orange,1750.0
+545,uttar pradesh,paddy(dhan)(basmati),1775.0
+546,uttar pradesh,paddy(dhan)(common),1761.75
+547,uttar pradesh,papaya,1255.5
+548,uttar pradesh,papaya (raw),700.0
+549,uttar pradesh,peas cod,950.0
+550,uttar pradesh,peas wet,845.0
+551,uttar pradesh,peas(dry),2640.0
+552,uttar pradesh,plum,570.0
+553,uttar pradesh,pomegranate,4080.0
+554,uttar pradesh,potato,537.75
+555,uttar pradesh,pumpkin,722.3529411764706
+556,uttar pradesh,raddish,439.2857142857143
+557,uttar pradesh,rice,2435.0
+558,uttar pradesh,spinach,650.0
+559,uttar pradesh,sugar,3410.0
+560,uttar pradesh,sweet potato,1145.0
+561,uttar pradesh,tobacco,1900.0
+562,uttar pradesh,tomato,786.6129032258065
+563,uttar pradesh,wheat,1879.0
+564,uttar pradesh,white pumpkin,310.0
+565,uttar pradesh,wood,367.5
+566,uttrakhand,apple,3050.0
+567,uttrakhand,banana,750.0
+568,uttrakhand,cabbage,400.0
+569,uttrakhand,carrot,700.0
+570,uttrakhand,cauliflower,550.0
+571,uttrakhand,garlic,1350.0
+572,uttrakhand,grapes,1800.0
+573,uttrakhand,green chilli,850.0
+574,uttrakhand,kinnow,750.0
+575,uttrakhand,lemon,1350.0
+576,uttrakhand,onion,1062.5
+577,uttrakhand,orange,1800.0
+578,uttrakhand,papaya,700.0
+579,uttrakhand,peas wet,1150.0
+580,uttrakhand,pomegranate,3500.0
+581,uttrakhand,potato,575.0
+582,uttrakhand,pumpkin,450.0
+583,uttrakhand,raddish,300.0
+584,uttrakhand,tomato,500.0
+585,west bengal,arhar (tur/red gram)(whole),6400.0
+586,west bengal,arhar dal(tur dal),6000.0
+587,west bengal,bhindi(ladies finger),3300.0
+588,west bengal,bitter gourd,5100.0
+589,west bengal,black gram (urd beans)(whole),6000.0
+590,west bengal,brinjal,1190.909090909091
+591,west bengal,cabbage,500.0
+592,west bengal,cauliflower,650.0
+593,west bengal,cucumbar(kheera),3650.0
+594,west bengal,ginger(dry),7680.0
+595,west bengal,green chilli,5266.666666666667
+596,west bengal,green gram (moong)(whole),7250.0
+597,west bengal,guava,4800.0
+598,west bengal,gur(jaggery),2883.3333333333335
+599,west bengal,jute,4133.333333333333
+600,west bengal,lentil (masur)(whole),5775.0
+601,west bengal,masur dal,6300.0
+602,west bengal,moath dal,7400.0
+603,west bengal,mustard,4105.0
+604,west bengal,mustard oil,10131.666666666666
+605,west bengal,onion,1031.6666666666667
+606,west bengal,paddy(dhan)(common),1758.75
+607,west bengal,papaya (raw),1100.0
+608,west bengal,peas(dry),4750.0
+609,west bengal,potato,493.1578947368421
+610,west bengal,pumpkin,1200.0
+611,west bengal,rice,2866.9565217391305
+612,west bengal,ridgeguard(tori),3300.0
+613,west bengal,"sesamum(sesame,gingelly,til)",7566.666666666667
+614,west bengal,sweet pumpkin,1144.2857142857142
+615,west bengal,tomato,856.6666666666666
+616,west bengal,turmeric,7325.0
+617,west bengal,wheat,1900.0
