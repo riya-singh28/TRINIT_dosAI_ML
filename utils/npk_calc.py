@@ -3,8 +3,8 @@ from random import randrange
 """
 N (max = 140) 0 min
 L < 21
-21 < M < 84.25
-H > 84.25
+21 < M < 84
+H > 84
 
 P (max = 145) 5 min
 L < 28
@@ -20,7 +20,7 @@ BASED 25 PERCENTILE AND 75 PERCENTILE OF AVAILABLE DATA
 """
 
 # [(L range), (M range), (H range)]
-range_dict = {"N":[(0,21),(21,84.25),(84.25, 140)],
+range_dict = {"N":[(0,21),(21,84),(84, 140)],
               "P":[(5,28),(28,68),(68, 145)],
               "K":[(5,20),(20,49),(49, 205)]}
 
