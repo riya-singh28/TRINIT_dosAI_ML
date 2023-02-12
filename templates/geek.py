@@ -1,5 +1,6 @@
 import streamlit as st
 import pandas as pd
+from PIL import Image
 
 def geek_page():
     # Different algorithms for models
@@ -12,3 +13,7 @@ def geek_page():
     st.header("Latest model testing charts")
     # Plot the bar chart
     st.bar_chart(df, x="model", y="accuracy")
+
+    st.header("A new dataset was developed by us from survey by IISS Bhopal")
+    image = Image.open('data/new_dataset.png')
+    st.image(image)
