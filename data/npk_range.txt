@@ -1,0 +1,16 @@
+N (max = 140) 0 min
+L < 21
+21 < M < 84.25
+H > 84.25
+
+P (max = 145) 5 min
+L < 28
+28 < M < 68
+H > 68
+
+K (max = 205) 5 min
+L < 20
+20 < M < 49
+H > 49
+
+BASED 25 PERCENTILE AND 75 PERCENTILE OF AVAILABLE DATA
