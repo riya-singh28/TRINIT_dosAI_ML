@@ -16,3 +16,6 @@ def get_composition(df: pd.DataFrame, district: str, state: str):
     p = df.query(f'state == "{state}" & district == "{district}"')['P'].tolist()[0]
     k = df.query(f'state == "{state}" & district == "{district}"')['K'].tolist()[0]
     return N_value(n), P_value(p), K_value(k)
+
+def get_price(df: pd.DataFrame, state: str, crop: str):
+    return df.query(f'state == "{state}" & label == "{crop}"')["modal_price"].tolist()[0]
