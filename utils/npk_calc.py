@@ -1,5 +1,6 @@
 from random import randrange
-
+import logging
+logging.basicConfig(level=logging.WARNING)
 """
 N (max = 140) 0 min
 L < 21
@@ -32,6 +33,7 @@ def N_value(in_range):
     elif in_range == 'H':
         return randrange(start=range_dict["N"][2][0], stop=range_dict["N"][2][1])
     else:
+        logging.warning("Invalid input! Please provide either 'L', 'M', or 'H'.")
         return 0
 
 def P_value(in_range):
@@ -42,6 +44,7 @@ def P_value(in_range):
     elif in_range == 'H':
         return randrange(start=range_dict["P"][2][0], stop=range_dict["P"][2][1])
     else:
+        logging.warning("Invalid input! Please provide either 'L', 'M', or 'H'.")
         return 0
 
 def K_value(in_range):
@@ -52,5 +55,6 @@ def K_value(in_range):
     elif in_range == 'H':
         return randrange(start=range_dict["K"][2][0], stop=range_dict["K"][2][1])
     else:
+        logging.warning("Invalid input! Please provide either 'L', 'M', or 'H'.")
         return 0
 
