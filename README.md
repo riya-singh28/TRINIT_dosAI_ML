@@ -6,3 +6,7 @@ Gone are the days of trial-and-error farming practices, where farmers spent larg
 We understand the importance of sustainable farming practices, and that's why our predictions also take into account the impact on the soil and its natural resources. By avoiding the repetition of growing the same crops in the same areas, farmers can maintain healthy soil and preserve it for future generations.
 
 At our crop prediction company, we believe that the future of agriculture lies in the intersection of technology and sustainability. Join us as we revolutionize the farming industry and lead the way towards a brighter, more profitable, and sustainable future.
+
+Product creators:
+Riya Singh @riya-singh28
+Aryan Amit Barsainyan @ary2260
