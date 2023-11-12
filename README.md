@@ -8,5 +8,5 @@ We understand the importance of sustainable farming practices, and that's why ou
 At our crop prediction company, we believe that the future of agriculture lies in the intersection of technology and sustainability. Join us as we revolutionize the farming industry and lead the way towards a brighter, more profitable, and sustainable future.
 
 ### Product creators:
-- Riya Singh @riya-singh28
-- Aryan Amit Barsainyan @ary2260
+- Riya Singh [@riya-singh28][https://github.com/riya-singh28]
+- Aryan Amit Barsainyan [@ary2260][https://github.com/ARY2260]
