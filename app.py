@@ -6,7 +6,7 @@ from templates import home_page, geek_page, pred_direct, pred_real_time, pred_no
 
 st.title("AgroFirst: Crop Prediction Portal")
 
-best_model = joblib.load("./model/best_model.joblib")
+best_model = joblib.load("./model/best_updated_model.joblib")
 
 
 options = ['What you wanna grow?', 'Crops Stats (statewise)', 'Crop Prediction - Direct', 'Crop Prediction - Real-time', 'Crop Prediction - Real-time (no kit required)', 'Technical Jargon']
